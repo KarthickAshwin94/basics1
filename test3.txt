@@ -1,1 +1,2 @@
 This is a sample file which I used for testing the git commands.
+This is a second line
