@@ -1,1 +1,3 @@
 Hello I'm trying to recall the git commands can you help me 
+this is line 2
+this line 3
